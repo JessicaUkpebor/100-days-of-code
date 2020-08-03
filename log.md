@@ -1,3 +1,5 @@
+Note to self: For projects visit free code camp, https://github.com/nas5w/100-days-of-code-frontend, https://www.freecodecamp.org/learn/, https://www.florin-pop.com/blog/2019/09/100-days-100-projects/
+
 # 100 Days Of Code - Log
 
 ### Day 1: 3rd August 2020
