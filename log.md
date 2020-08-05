@@ -5,11 +5,13 @@ Note to self: For projects visit free code camp, https://github.com/nas5w/100-da
 ### Day 1: 3rd August 2020
 ##### (delete me or comment me out)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Used Javascript and HTML to build a random fact generator. Couldn't find the API I wanted so I added random facts to an array. Learnt about the Maths Floor function - although I still need a lot of practise so I'll be coming back to this - perhaps to build a word of the day generator using the Wordsnik API.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+Also - my random fact generator didn't work the way I wanted it to, so I'll have to explore this part of Javascript further down the line.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Thoughts:** I really struggled with Javascript, but, overall, I feel like I am slowly getting better at it. Going to come back to it later.
+
+**Link to work:** 
 
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
